@@ -1,0 +1,12 @@
+[submodule "personal-site"]
+	path = personal-site
+	url = https://github.com/wisnuwiry/personal-site
+[submodule "themes/personal-site"]
+	path = themes/personal-site
+	url = https://github.com/wisnuwiry/personal-site
+[submodule "themes/ediewebb"]
+	path = themes/ediewebb
+	url = https://github.com/eddiewebb/hugo-resume
+[submodule "themes/eddiewebb-resume"]
+	path = themes/eddiewebb-resume
+	url = https://github.com/eddiewebb/hugo-resume
