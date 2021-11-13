@@ -1,4 +1,4 @@
-baseURL = 'https://itbergl.github.io/isaacbergl.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'eddiewebb-resume'
+baseURL = "https://isaacbergl.com/personal-website"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "eddiewebb-resume"
